@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iria kaltsidi
+- 👋 Hi, I’m iria kaltsidi
 - 👀 I’m interested in PL/SQL,SQL
 - 🌱 I’m currently learning PL/SQL NOW;
 - 💞️ I’m looking to collaborate on 
